@@ -1,0 +1,206 @@
+.small{
+    width: 1480px;
+    background-color: #F9F8F8;
+
+    &__images{
+        margin-left: 280px;
+    }
+    
+    &__text{
+        width: 753px;
+        color: #949494;
+        text-align: center;
+        font-family: Futura PT;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin: 0 auto; 
+    }
+    
+    &__images1{
+        margin-left: 1100px;
+    }
+    
+    &__head{
+        color: #333;
+        font-family: Futura PT;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-align: center;
+        margin-top: 35px;
+    }
+
+    &__head1{
+        display: flex;
+        width: 296px;
+        height: 38px;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;color: #333;
+
+        /* H2 */
+        font-family: Futura PT;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 54px; /* 112.5% */
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 191px;
+    }
+
+    &__list{
+        display: flex;
+        // gap: 20px;
+    }
+    
+    &__itam{
+        width: 193px;
+        height: 215px;
+        flex-shrink: 0;
+        border-radius: 5px 5px 0px 0px;
+        background-color: #FFF;
+        margin-left: 32px;
+    }
+
+    &__item--img{
+        margin-left: 70px;
+        margin-top: 50px;
+    }
+
+    &__head6{
+        width: 126px;
+        color: #333;
+        text-align: center;
+        font-family: Futura PT;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 22px;
+        margin-left: 25px;
+    }
+
+    &__image{
+        margin-top: 100px;
+        margin-left: 30px;
+    }
+
+    &__wrapper{
+        width: 1223px;
+        height: 414px;
+        flex-shrink: 0;
+        border-radius: 0px 5px 5px 5px;
+        background: #FFF;
+        margin: 0 auto;
+        margin-top: 15px;
+        display: flex;
+        margin-bottom: 200px;
+    }
+
+    &__wrapper--img{
+        border-radius: 5px;
+        margin-top: 41px;
+        margin-bottom: 41px;
+        margin-left: 25px;
+    }
+
+    &__wrapper__list--head{
+        display: flex;
+        width: 333px;
+        height: 35px;
+        flex-direction: column;
+        justify-content: center;
+        flex-shrink: 0;color: #333;
+        font-family: Futura PT;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 20px;
+        margin-top: 75px;
+        margin-left: 70px;
+    }
+
+    &__wrapper__list--taxt{
+        width: 492px;
+        color: #949494;
+        font-family: Futura PT;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;
+        margin-left: 70px;
+        margin-top: 18px;
+    }
+
+    &__wrapper__list--button{
+        display: flex;
+    }
+
+   
+}
+
+.small2{
+    width: 140px;
+    height: 1px;
+    background: #DBDBDB;
+    margin: 0 auto;
+}
+
+.small3{
+    width: 140px;
+    height: 1px;
+    background: #DBDBDB;
+    margin: 0 auto;   
+}
+
+.small5{
+    padding-top: 200px;
+}
+
+
+.wrapper__button{
+    border-radius: 3px;
+    background: #FFBD54;width: 185px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+
+    &--link{
+        color: #FFF;
+        font-family: Futura PT;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+}
+
+
+.wrapper__button1{
+    border-radius: 3px;
+    background: #333;
+    width: 185px;
+    height: 50px;
+    flex-shrink: 0;
+    border: none;
+
+}
+
+.wrapper__button--link1{
+        color: #FFF;
+        font-family: Futura PT;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal; 
+}
+  
+
+.small__wrapper__list--button{
+    gap: 21px;
+    margin-left: 70px;
+    margin-top: 34px;
+}

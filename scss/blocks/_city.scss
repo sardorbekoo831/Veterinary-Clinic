@@ -1,0 +1,93 @@
+.city__hero{
+    width: 1440px;
+    height: 2613px;
+    background-color: #F9F9F9;
+    display: flex;
+}
+
+.city__hero--head{
+    color: #333;
+    font-family: Futura PT;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    margin-left: 177px;
+    margin-top: 110px;
+}
+
+.city__hero--text{
+    width: 447px;
+    color: #949494;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+    margin-left: 177px;
+    margin-top: 21px;
+}
+
+.city__hero--left{
+    width: 415px;
+    height: 317px;
+    flex-shrink: 0;
+    background: url("/captain/sf.svg"), #F9F9F9 50% / cover no-repeat;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.city__main{
+    width: 1308px;
+    height: 525px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #F3F3F3;
+    background-color: #FFF;
+    margin-top: -2200px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.city__main--reght{
+    width: 558px;
+    height: 525px;
+    flex-shrink: 0;
+    border-radius: 5px 0px 0px 5px;
+    background: url('/images/itlar.png'), lightgray 50% / cover no-repeat;
+
+}
+
+.city__main--reght--head{
+    width: 325px;
+    color: #333;
+    font-family: Futura PT;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 125px;
+    margin-left: 85px;
+}
+
+.city__main--reght--text{
+    width: 517px;
+    height: 163px;
+    flex-shrink: 0;
+    color: #949494;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+    margin-left: 82px;
+    margin-top: 20px;
+}
+
+.city__low--list{
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

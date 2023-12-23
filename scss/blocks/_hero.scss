@@ -1,0 +1,28 @@
+.hero{
+    display: flex;  
+    gap: 100px;
+}
+
+.hero__left{
+    width: 934.439px;
+    height: 329.492px;
+    flex-shrink: 0;
+    background-image: url('/contact/pa.svg');
+    margin-top: -40px;
+}
+
+.hero__left--img{
+margin-top: 150px;
+margin-left: 170px;
+}
+
+.hero__left--head{
+    color: #333;
+font-family: Futura PT;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0 auto;
+margin-top: 10px;
+}

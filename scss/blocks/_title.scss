@@ -1,0 +1,121 @@
+.title{
+    width: 1480px;
+height: 529px;
+flex-shrink: 0;
+background: url(/captain/a.png), lightgray 50% / cover no-repeat;
+}
+
+.title__small{
+    margin-left: 288px;
+    margin-top: 33px;
+}
+
+.title__head{
+    width: 640px;
+    color: #333;
+    font-family: Futura PT;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px; /* 91.429% */
+    margin-left: 288px;
+}
+
+.title__head-1{
+    color: #FFBD54;
+    font-family: Futura PT;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+}
+
+.title__text{
+    width: 638px;
+    color: #949494;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    margin-left: 288px;
+    margin-top: 22px;
+}
+
+.small__wrapper__list--button1{
+    margin-left: 288px;
+    margin-top: 64px;
+}
+
+.title__box-1{
+    margin-left: 700px;
+    margin-top: -700px;
+}
+
+.title__box-1 ul{
+    list-style:  none;
+}
+
+
+
+.title__box-2{
+    width: 1444px;
+    height: 498px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background-color: #78C0DE;
+    margin-top: 174px;
+    display: flex;
+}
+
+.title__box-2--head{
+    width: 276px;
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 62px; 
+    // margin-top: 64px;
+    padding-top: 64px;
+    margin-left: 173px;
+}
+
+.title__box-2--text{
+    width: 200px;   
+    color: #FFF;
+    font-family: Futura PT;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 173px;
+    margin-top: 8px;
+}
+
+.input{
+    width: 335px;
+    height: 50px;
+    flex-shrink: 0;
+    background-color: #FFF;
+}
+
+.input1{
+    width: 335px;
+height: 165px;
+flex-shrink: 0;
+}
+
+
+.box-2__center{
+    margin-top: 64px;
+    margin-left: -100px;
+}
+
+.box-2__left{
+    width: 613px;
+    height: 481px;
+    flex-shrink: 0;
+    background-image: url('/images/kattait.svg');
+    margin-top: 82px;
+}

@@ -1,0 +1,49 @@
+.wrapp{
+    margin-top: 110px;
+    display: flex;
+}
+
+.wrapp__reght--head{
+    width: 321px;
+    height: 58px;
+    flex-shrink: 0;
+    color: #333;
+    font-family: Futura PT;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px; /* 91.429% */
+    margin-left: 177px;
+}
+
+.wrapp__reght--text{
+    margin-left: 177px;
+    color: #949494;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    width: 447px;
+    margin-top: 27px;
+}
+
+.wrapp__reght--list{
+    display: flex;
+    margin-left: 165px;
+    margin-top: 117px;
+    gap: 118px;
+}
+
+.wrapp__reght--link{
+    width: 15px;
+}
+
+.wrapp__left{
+    width: 487px;
+    height: 548px;
+    flex-shrink: 0;
+    background: url('/contact/it.png'), rgb(255, 255, 255) -88.287px -51.733px / 128.265% 109.522% no-repeat;
+    margin-left: 140px;
+    margin-bottom: 150px;
+}

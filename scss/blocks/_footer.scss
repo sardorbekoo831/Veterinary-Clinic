@@ -1,0 +1,29 @@
+.footer{
+    width: 1480px;
+    border: 1px solid #EBEBEB;
+    background: #F3F3F3;
+    display: flex;
+}
+
+.footer__logo{
+    margin-top: 54px;
+    margin-left: 65px;
+    margin-bottom: 92px;
+}
+
+.footer__list{
+    margin-top: 61px;
+    margin-left: 65px;
+}
+.footer__item{
+    margin-top: 15px;
+}
+
+.footer__item--link{
+    color: #333;
+    font-family: Futura PT;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
